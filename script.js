@@ -2,4 +2,4 @@
 
 let element=document.getElementById("browser-info");
 
-element.innerText="You are using "+navigator.appName+" version "+navigator.appVersion
+element.textContent="You are using "+navigator.appName+" version "+navigator.appVersion
